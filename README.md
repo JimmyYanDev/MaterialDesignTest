@@ -1,5 +1,5 @@
 # MaterialDesignTest
-&nbsp;&nbsp;&nbsp;&nbsp;Material Design 简单使用案例，包括Toolbar、DrawerLayout、NavigationView、AppBarLayout、
+Material Design 简单使用案例，包括Toolbar、DrawerLayout、NavigationView、AppBarLayout、
 CoordinatorLayout、RecyclerView和CollapsingToolbarLayout等的简单实用。
 
 运行效果如下图：
